@@ -2,4 +2,4 @@ book_filename: "arm_bookdown"
 delete_merged_file: true
 language:
   ui:
-    chapter_name: "Part "
+    chapter_name: "Session "
